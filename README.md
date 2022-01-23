@@ -22,3 +22,5 @@ If you need any help on blockchain project then contact me.
 
 ### CSE Projects Help Website : [LINK](https://www.cse-projects.com)
 ### [Computer Science Project](https://computerscienceproject.com) list
+
+#minor-project #mini-project #bitcoin
